@@ -1,0 +1,51 @@
+ID,Nombre,Edad,Experiencia,Años_de_Estudio,Especialidad,Proyecto_Actual,Promedio
+1,Carlos López,30,8,5,Diseño de máquinas,Desarrollo de un motor eficiente,87
+2,Ana Martínez,28,6,4,Ingeniería de materiales,Diseño de estructuras metálicas,78
+3,Pablo Sánchez,35,10,7,Tecnología de la manufactura,Optimización de procesos de fabricación,92
+4,Sofía Rodríguez,32,9,6,Robótica industrial,Implementación de brazos robóticos,85
+5,Javier García,29,7,5,Dinámica de máquinas,Sistema de amortiguación para vehículos,80
+6,Laura Pérez,31,8,6,Mecánica de fluidos,Desarrollo de sistemas de refrigeración,88
+7,Miguel Gómez,34,9,7,Ingeniería térmica,Estudio de transferencia de calor en motores,90
+8,María Torres,27,6,4,Análisis estructural,Diseño de puentes y viaductos,75
+9,Daniel Hernández,33,10,8,Automatización industrial,Implementación de sistemas CNC,89
+10,Isabel Ruiz,30,8,6,Mecatrónica,Desarrollo de sistemas de control para maquinaria,86
+11,Alejandro Castro,29,7,5,Optimización de procesos,Mejora de líneas de ensamblaje,82
+12,Patricia Díaz,26,5,3,Ingeniería de calidad,Control de calidad en producción,77
+13,Ricardo Vargas,32,9,7,Mantenimiento predictivo,Implementación de sensores de monitoreo,91
+14,Paula Jiménez,28,6,4,Tecnología de la soldadura,Desarrollo de técnicas de soldadura avanzada,79
+15,Diego Navarro,31,8,6,Simulación y modelado,Diseño y simulación de sistemas mecánicos,83
+16,Carolina Reyes,33,10,8,Ingeniería de automatización,Optimización de procesos industriales,88
+17,Ernesto Morales,27,6,4,Control de calidad,Implementación de estándares ISO,76
+18,Natalia Ríos,34,9,7,Ingeniería de mantenimiento,Planificación de mantenimiento preventivo,90
+19,Raul Fernández,29,7,5,Ingeniería inversa,Reconstrucción de piezas mediante escaneo 3D,81
+20,Silvia Herrera,30,8,6,Análisis de vibraciones,Diagnóstico de fallos en maquinaria,87
+21,Hugo Díaz,28,6,4,Robótica móvil,Desarrollo de robots autónomos,78
+22,Andrea Guzmán,35,10,8,Optimización de procesos de fabricación,Mejora de eficiencia en líneas de producción,93
+23,Santiago Mendoza,31,8,6,Ingeniería de mantenimiento,Diseño de planes de mantenimiento industrial,85
+24,Valentina Castillo,26,5,3,Ingeniería de confiabilidad,Análisis de confiabilidad en componentes,74
+25,Emilio Ortega,33,10,8,Ingeniería de materiales,Desarrollo de nuevos materiales para la industria,92
+26,Lucía Vidal,29,7,5,Diseño asistido por computadora,Diseño de componentes mediante CAD,80
+27,Julio Flores,34,9,7,Ingeniería térmica,Optimización de sistemas de calefacción,89
+28,Adriana Bravo,27,6,4,Metrología,Diseño de sistemas de medición avanzada,77
+29,Juan Torres,32,9,7,Mecatrónica,Implementación de sistemas de visión artificial,91
+30,Manuela Sánchez,30,8,6,Mantenimiento predictivo,Implementación de técnicas de análisis predictivo,86
+31,Eduardo González,29,7,5,Tecnología de la soldadura,Investigación de nuevos métodos de soldadura,82
+32,Carmen Martínez,28,6,4,Análisis estructural,Estudio de comportamiento de estructuras,79
+33,Ramón Pérez,35,10,8,Control de calidad,Desarrollo de protocolos de inspección,93
+34,Luisa Gómez,31,8,6,Robótica industrial,Optimización de trayectorias en robots industriales,88
+35,Rodrigo Jiménez,27,6,4,Dinámica de máquinas,Análisis de vibraciones en sistemas mecánicos,75
+36,Esther Ruiz,34,9,7,Mecánica de fluidos,Simulación de flujos en sistemas hidráulicos,90
+37,Jaime García,29,7,5,Ingeniería inversa,Recuperación de geometrías a partir de nubes de puntos,81
+38,Olga Navarro,30,8,6,Análisis de fallas,Investigación de causas de falla en componentes,87
+39,Gabriel Flores,28,6,4,Robótica móvil,Desarrollo de algoritmos de navegación para robots,78
+40,Elisa Díaz,35,10,8,Tecnología de la manufactura,Mejora de procesos de mecanizado,92
+41,Roberto Sánchez,31,8,6,Ingeniería de confiabilidad,Análisis de datos para mejorar la confiabilidad,86
+42,Anaí Castro,29,7,5,Diseño asistido por computadora,Modelado de piezas para fabricación aditiva,83
+43,Pedro Herrera,34,9,7,Ingeniería térmica,Optimización de sistemas de refrigeración,89
+44,Marina Ríos,27,6,4,Análisis estructural,Estudio de comportamiento de estructuras metálicas,77
+45,Rodolfo Fernández,32,9,7,Control de calidad,Implementación de métodos de inspección no destructiva,91
+46,Cecilia López,30,8,6,Ingeniería de mantenimiento,Planificación de mantenimiento preventivo,85
+47,Antonio Vargas,28,6,4,Robótica industrial,Desarrollo de sistemas de control para robots,79
+48,Valeria Martínez,35,10,8,Mecatrónica,Implementación de sistemas de automatización,94
+49,Jorge Pérez,31,8,6,Mantenimiento predictivo,Implementación de técnicas de mantenimiento predictivo,87
+50,Beatriz Gómez,29,7,5,Tecnología de la soldadura,Investigación de nuevos materiales para soldadura,82
